@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginVertical: 10,
 
-    // gölge
+
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.1,
